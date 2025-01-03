@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cartoons>
+  <cartoon>
+    <name>Batman: The Animated Series</name>
+    <span>(1992–1995)</span>
+    <description>The Dark Knight battles crime in Gotham City with occasional help from Robin and Batgirl.</description>
+    <rating>9</rating>
+  </cartoon>
+  <cartoon>
+    <name>Samurai Jack</name>
+    <span>(2001–2017)</span>
+    <description>A samurai, sent through time, fights to return home and save the world.</description>
+    <rating>8.5</rating>
+  </cartoon>
+  <cartoon>
+    <name>Avatar: The Last Airbender</name>
+    <span>(2005–2008)</span>
+    <description>In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.</description>
+    <rating>9.3</rating>
+  </cartoon>
+  <cartoon>
+    <name>Total Drama Island</name>
+    <span>(2007–2014)</span>
+    <description>Animated satire of survivor reality shows featuring random teenage archetypes vying for the final prize by any means necessary.</description>
+    <rating>7.4</rating>
+  </cartoon>
+  <cartoon>
+    <name>Scooby-Doo! Mystery Incorporated</name>
+    <span>(2010–2013)</span>
+    <description>This incarnation finds Scooby and the gang living in Crystal Cove, a small town with a long history of ghost sightings, monster tales and other mysteries ripe for the sleuths to solve once and for all.</description>
+    <rating>8.1</rating>
+  </cartoon>
+  <cartoon>
+    <name>Justice League</name>
+    <span>(2001–2004)</span>
+    <description>Seven of the most formidable heroes form arguably the most powerful team ever.</description>
+    <rating>8.6</rating>
+  </cartoon>
+  <cartoon>
+    <name>The Avengers: Earth&apos;s Mightiest Heroes</name>
+    <span>(2010–2012)</span>
+    <description>After 74 villains break out of prison, Marvel&apos;s most powerful superheroes team up to capture all of them, and also to defend the Earth from widespread threats.</description>
+    <rating>8.3</rating>
+  </cartoon>
+  <cartoon>
+    <name>Batman Beyond</name>
+    <span>(1999–2001)</span>
+    <description>Fuelled by remorse and vengeance, a high schooler named Terry McGinnis revives the role of Batman. Under supervision of an elderly Bruce Wayne, he fights crime in a harsh, futuristic Gotham.</description>
+    <rating>8.1</rating>
+  </cartoon>
+  <cartoon>
+    <name>Teenage Mutant Ninja Turtles</name>
+    <span>(2012–2017)</span>
+    <description>Four ninja turtles, mutated by a mysterious alien substance, must rise up out of the sewers and defend New York City against evil forces from both the past and present.</description>
+    <rating>7.9</rating>
+  </cartoon>
+  <cartoon>
+    <name>Teen Titans</name>
+    <span>(2003–2006)</span>
+    <description>A team of five teenaged superheroes save the world from many villains around their city while experiencing things normal teens face today.</description>
+    <rating>7.9</rating>
+  </cartoon>
+  <cartoon>
+    <name>Ben 10</name>
+    <span>(2005–2008)</span>
+    <description>The story of Ben Tennyson, a typical kid who becomes very atypical after he discovers the Omnitrix, a mysterious alien device with the power to transform the wearer into ten different alien species.</description>
+    <rating>7.5</rating>
+  </cartoon>
+  <cartoon>
+    <name>Generator Rex</name>
+    <span>(2010–2013)</span>
+    <description>In a future where humans are infected by untested, microscopic robots, a young man with the ability to control the bots helps a government agency control the tech&apos;s vicious creations.</description>
+    <rating>7.6</rating>
+  </cartoon>
+  <cartoon>
+    <name>Trollhunters</name>
+    <span>(2016–2018)</span>
+    <description>An ordinary boy finds a magic amulet that chooses him to be a Trollhunter, a guardian that defends the world of humans and the secret world of trolls.</description>
+    <rating>8.4</rating>
+  </cartoon>
+  <cartoon>
+    <name>Gargoyles</name>
+    <span>(1994–1997)</span>
+    <description>A clan of heroic night creatures pledge to protect modern New York City as they did in Scotland one thousand years earlier.</description>
+    <rating>8</rating>
+  </cartoon>
+  <cartoon>
+    <name>Roswell Conspiracies: Aliens, Myths &amp; Legends</name>
+    <span>(1997–1999)</span>
+    <description>Welcome to a tangled web of secrets and deception...The story of allied intelligence agents who&apos;ve discovered extraterrestrial beings on Earth, thriving here for centuries through the ...                See full summary »</description>
+    <rating>7.5</rating>
+  </cartoon>
+  <cartoon>
+    <name>The Legend of Korra</name>
+    <span>(2012–2014)</span>
+    <description>Avatar Korra fights to keep Republic City safe from the evil forces of both the physical and spiritual worlds.</description>
+    <rating>8.3</rating>
+  </cartoon>
+  <cartoon>
+    <name>Voltron: Legendary Defender</name>
+    <span>(2016–2018)</span>
+    <description>Five teenagers become the last line of defense for the galaxy in an intergalactic battle against the evil alien force led by King Zarkon.</description>
+    <rating>8.1</rating>
+  </cartoon>
+  <cartoon>
+    <name>The Spectacular Spider-Man</name>
+    <span>(2008–2009)</span>
+    <description>An animated television show that focuses on a sixteen-year-old Peter Parker, and the origins of Spider-Man.</description>
+    <rating>8.4</rating>
+  </cartoon>
+  <cartoon>
+    <name>Megas XLR</name>
+    <span>(2004–2005)</span>
+    <description>Two teenage slackers find a mecha from the future that had been lying in a New Jersey junkyard for nearly 60 years and make modifications much to the dismay of the robot&apos;s attractive creator.</description>
+    <rating>8.2</rating>
+  </cartoon>
+  <cartoon>
+    <name>Sym-Bionic Titan</name>
+    <span>(2010–2011)</span>
+    <description>Three young alien beings with the ability to form a giant robotic warrior attempt to blend into suburbia, all while battling the tyrannical forces that ravaged their home world.</description>
+    <rating>8.1</rating>
+  </cartoon>
+  <cartoon>
+    <name>Gravity Falls</name>
+    <span>(2012–2016)</span>
+    <description>Twin siblings Dipper and Mabel Pines spend the summer at their great-uncle&apos;s tourist trap in the enigmatic Gravity Falls, Oregon.</description>
+    <rating>8.9</rating>
+  </cartoon>
+  <cartoon>
+    <name>Star Wars: The Clone Wars</name>
+    <span>(2008–2020)</span>
+    <description>Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists.</description>
+    <rating>8.4</rating>
+  </cartoon>
+  <cartoon>
+    <name>Star Wars Rebels</name>
+    <span>(2014–2018)</span>
+    <description>A brave and clever ragtag starship crew stands up against the evil Empire as it tightens its grip on the galaxy and hunts down the last of the Jedi Knights.</description>
+    <rating>8.1</rating>
+  </cartoon>
+  <cartoon>
+    <name>Kim Possible</name>
+    <span>(2002–2007)</span>
+    <description>A high school cheerleader and her clumsy best friend balance their duties as global crime-fighters with the typical challenges of adolescence.</description>
+    <rating>7.2</rating>
+  </cartoon>
+  <cartoon>
+    <name>Codename: Kids Next Door</name>
+    <span>(2002–2008)</span>
+    <description>The adventures of a group of ten-year-old friends who fight for the right to do everything that adults restrict from them.</description>
+    <rating>7.2</rating>
+  </cartoon>
+  <cartoon>
+    <name>Danny Phantom</name>
+    <span>(2003–2007)</span>
+    <description>A 14-year-old receives ghost powers and uses them to save the world.</description>
+    <rating>7.2</rating>
+  </cartoon>
+  <cartoon>
+    <name>The Dragon Prince</name>
+    <span>(2018– )</span>
+    <description>Two human princes forge an unlikely bond with the elfin assassin sent to kill them, embarking on an epic quest to bring peace to their warring lands.</description>
+    <rating>8.3</rating>
+  </cartoon>
+  <cartoon>
+    <name>Futurama</name>
+    <span>(1999– )</span>
+    <description>Philip J. Fry, a pizza delivery boy, is accidentally frozen in 1999 and thawed out on New Year&apos;s Eve 2999.</description>
+    <rating>8.5</rating>
+  </cartoon>
+  <cartoon>
+    <name>Tangled: The Series</name>
+    <span>(2017–2020)</span>
+    <description>Set between Walt Disney Animation Studios&apos; &quot;Tangled&quot; and its short film &quot;Tangled Ever After,&quot; this animated adventure/comedy series unfolds as Rapunzel acquaints herself with her parents, her kingdom and the people of Corona.</description>
+    <rating>7.7</rating>
+  </cartoon>
+  <cartoon>
+    <name>3Below: Tales of Arcadia</name>
+    <span>(2018–2019)</span>
+    <description>A pair of teenage royals and their bodyguard escape from their home planet and try to blend in on Earth.</description>
+    <rating>7.6</rating>
+  </cartoon>
+  <cartoon>
+    <name>Castlevania</name>
+    <span>(2017–2021)</span>
+    <description>A vampire hunter fights to save a besieged city from an army of otherworldly creatures controlled by Dracula.</description>
+    <rating>8.3</rating>
+  </cartoon>
+  <cartoon>
+    <name>Final Space</name>
+    <span>(2018–2021)</span>
+    <description>An astronaut named Gary and his planet-destroying sidekick called Mooncake embark on serialized journeys through space in order to unlock the mystery of where the universe actually ends and if it actually does exist.</description>
+    <rating>8.2</rating>
+  </cartoon>
+  <cartoon>
+    <name>Tron: Uprising</name>
+    <span>(2012–2013)</span>
+    <description>In the computer world of the Grid, a young program joins Tron&apos;s fight against their world&apos;s tyranny.</description>
+    <rating>8.2</rating>
+  </cartoon>
+  <cartoon>
+    <name>Thundercats</name>
+    <span>(2011–2012)</span>
+    <description>After his home kingdom is destroyed by the ancient devil priest Mumm-Ra, the young Thundercat Lord Lion-O leads a team of survivors as they fight evil on Third Earth.</description>
+    <rating>7.8</rating>
+  </cartoon>
+  <cartoon>
+    <name>The Boondocks</name>
+    <span>(2005–2014)</span>
+    <description>Brothers Huey and Riley Freeman experience a culture clash when they leave Chicago to move in with their grandfather in the suburbs.</description>
+    <rating>8.5</rating>
+  </cartoon>
+  <cartoon>
+    <name>6Teen</name>
+    <span>(2004–2010)</span>
+    <description>Set in a giant shopping mall, this show follows the after-school lives of six 16-year-olds.</description>
+    <rating>7.5</rating>
+  </cartoon>
+  <cartoon>
+    <name>Wizards</name>
+    <span>(2020)</span>
+    <description>The third installment of DreamWork&apos;s &apos;Tales of Arcadia&apos; trilogy. The gang ends up in the past and must make sure that everything happens the way it should.</description>
+    <rating>8</rating>
+  </cartoon>
+  <cartoon>
+    <name>Primal</name>
+    <span>(2019– )</span>
+    <description>A caveman and a dinosaur bond over shared tragedy and work together to survive in a perilous prehistoric world.</description>
+    <rating>8.7</rating>
+  </cartoon>
+  <cartoon>
+    <name>The Legend of Vox Machina</name>
+    <span>(2022– )</span>
+    <description>After saving the realm from evil and destruction at the hands of the most terrifying power couple in Exandria, Vox Machina is faced with saving the world once again-this time, from a sinister group of dragons known as the Chroma Conclave.</description>
+    <rating>8.4</rating>
+  </cartoon>
+  <cartoon>
+    <name>Invincible</name>
+    <span>(2021– )</span>
+    <description>An adult animated series based on the Skybound/Image comic about a teenager whose father is the most powerful superhero on the planet.</description>
+    <rating>8.7</rating>
+  </cartoon>
+  <cartoon>
+    <name>Blood of Zeus</name>
+    <span>(2020– )</span>
+    <description>A commoner living in ancient Greece, Heron discovers his true heritage as a son of Zeus, and his purpose: to save the world from a demonic army.</description>
+    <rating>7.5</rating>
+  </cartoon>
+  <cartoon>
+    <name>Arcane: League of Legends</name>
+    <span>(2021– )</span>
+    <description>Set in Utopian Piltover and the oppressed underground of Zaun, the story follows the origins of two iconic League Of Legends champions and the power that will tear them apart.</description>
+    <rating>9</rating>
+  </cartoon>
+  <cartoon>
+    <name>Star Wars: Clone Wars</name>
+    <span>(2003–2005)</span>
+    <description>The events and battles of the Galactic Republic&apos;s last major war are recounted.</description>
+    <rating>7.8</rating>
+  </cartoon>
+  <cartoon>
+    <name>SWAT Kats: The Radical Squadron</name>
+    <span>(1993–1995)</span>
+    <description>In a world of anthropomorphic felines, two demoted fighter pilots battle evil as high flying masked vigilantes.</description>
+    <rating>8.4</rating>
+  </cartoon>
+  <cartoon>
+    <name>Scooby Doo, Where Are You!</name>
+    <span>(1969–1978)</span>
+    <description>A group of teenage friends and their Great Dane (Scooby-Doo) travel in a bright green van solving strange and hilarious mysteries, while returning from or going to a regular teenage function.</description>
+    <rating>7.9</rating>
+  </cartoon>
+  <cartoon>
+    <name>Detentionaire</name>
+    <span>(2011–2014)</span>
+    <description>When 10th-grader Lee Ping sneaks out of detention to find out who framed him for a major prank, he slowly uncovers a massive conspiracy that encompasses his entire school and will determine the fate of the human race.</description>
+    <rating>8</rating>
+  </cartoon>
+  <cartoon>
+    <name>Rick and Morty</name>
+    <span>(2013– )</span>
+    <description>The fractured domestic lives of a nihilistic mad scientist and his anxious grandson are further complicated by their inter-dimensional misadventures.</description>
+    <rating>9.1</rating>
+  </cartoon>
+  <cartoon>
+    <name>Titan Maximum</name>
+    <span>(2009)</span>
+    <description>Sci-fi stop-motion parody centering on a group of teen heroes that pilot a giant robot in order to protect the galaxy from evil.</description>
+    <rating>7</rating>
+  </cartoon>
+  <cartoon>
+    <name>American Dad!</name>
+    <span>(2005– )</span>
+    <description>The escapades of Stan Smith, a conservative C.I.A. Agent dealing with family life, and keeping America safe.</description>
+    <rating>7.4</rating>
+  </cartoon>
+  <cartoon>
+    <name>Robot Chicken</name>
+    <span>(2001–2022)</span>
+    <description>Pop culture references fly thick and fast as stop-motion animation is featured in sketches lampooning everything from television movies to comic books.</description>
+    <rating>7.7</rating>
+  </cartoon>
+  <cartoon>
+    <name>Bob&apos;s Burgers</name>
+    <span>(2011–2024)</span>
+    <description>Bob Belcher runs a struggling burger shop with his wife and three children.</description>
+    <rating>8.2</rating>
+  </cartoon>
+  <cartoon>
+    <name>South Park</name>
+    <span>(1997– )</span>
+    <description>Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.</description>
+    <rating>8.7</rating>
+  </cartoon>
+  <cartoon>
+    <name>Family Guy</name>
+    <span>(1999–2025)</span>
+    <description>In a wacky Rhode Island town, a dysfunctional family strives to cope with everyday life as they are thrown from one crazy scenario to another.</description>
+    <rating>8.1</rating>
+  </cartoon>
+  <cartoon>
+    <name>Aqua Teen Hunger Force</name>
+    <span>(2000–2023)</span>
+    <description>The misadventures of a milkshake, an order of fries, a meatball, and their retired next door neighbor in the suburbs of New Jersey.</description>
+    <rating>7.7</rating>
+  </cartoon>
+  <cartoon>
+    <name>The Simpsons</name>
+    <span>(1989– )</span>
+    <description>The satiric adventures of a working-class family in the misfit city of Springfield.</description>
+    <rating>8.7</rating>
+  </cartoon>
+  <cartoon>
+    <name>King of the Hill</name>
+    <span>(1997–2010)</span>
+    <description>A straight-laced propane salesman in Arlen, Texas tries to deal with the wacky antics of his family and friends, while also trying to keep his son in line.</description>
+    <rating>7.5</rating>
+  </cartoon>
+  <cartoon>
+    <name>Animaniacs</name>
+    <span>(1993–1998)</span>
+    <description>The zany adventures of a trio of 1930s animated characters in the modern world.</description>
+    <rating>7.9</rating>
+  </cartoon>
+  <cartoon>
+    <name>Pinky and the Brain</name>
+    <span>(1995–1998)</span>
+    <description>Pinky and Brain are genetically enhanced laboratory mice who reside in the research facility. Brain is self-centered and scheming; Pinky is good-natured but feeble-minded. In each episode, Brain devises a new plan to take over the world.</description>
+    <rating>7.8</rating>
+  </cartoon>
+  <cartoon>
+    <name>The Grim Adventures of Billy &amp; Mandy</name>
+    <span>(2001–2007)</span>
+    <description>The ill-tempered Grim Reaper gets into a wager that forces him to become the life-long companions of two scheming youngsters after he loses.</description>
+    <rating>7.7</rating>
+  </cartoon>
+  <cartoon>
+    <name>Jackie Chan Adventures</name>
+    <span>(2000–2005)</span>
+    <description>Jackie Chan teams up with his 11-year-old niece, Jade, traveling the globe to locate a dozen magical talismans before the sinister Dark Hand does. Helping Jackie and Jade is Uncle, a cantankerous but wise antiquities expert.</description>
+    <rating>7.4</rating>
+  </cartoon>
+  <cartoon>
+    <name>Wolverine and the X-Men</name>
+    <span>(2008–2009)</span>
+    <description>After an explosion at the school, the X-Men went their separate ways. But they must unite once again under the leadership of Wolverine to prevent an inevitable war while also dealing with present problems.</description>
+    <rating>8</rating>
+  </cartoon>
+  <cartoon>
+    <name>Superman: The Animated Series</name>
+    <span>(1996–2000)</span>
+    <description>The last son of the planet Krypton protects his adoptive home of Earth as the greatest of the superheroes.</description>
+    <rating>8.1</rating>
+  </cartoon>
+  <cartoon>
+    <name>Johnny Bravo</name>
+    <span>(1997–2004)</span>
+    <description>The misadventures of a dumb blond egomaniac who severely overestimates his own manliness and his supposed &quot;success&quot; with women.</description>
+    <rating>7.2</rating>
+  </cartoon>
+  <cartoon>
+    <name>Dexter&apos;s Laboratory</name>
+    <span>(1996–2003)</span>
+    <description>The misadventures of a boy genius and his annoying sister.</description>
+    <rating>7.9</rating>
+  </cartoon>
+  <cartoon>
+    <name>Courage the Cowardly Dog</name>
+    <span>(1999–2002)</span>
+    <description>The offbeat adventures of Courage, a cowardly dog who must overcome his own fears to heroically defend his unknowing farmer owners from all kinds of dangers, paranormal events and menaces that appear around their land.</description>
+    <rating>8.3</rating>
+  </cartoon>
+  <cartoon>
+    <name>The Powerpuff Girls</name>
+    <span>(1998–2004)</span>
+    <description>Three super-powered little girls constantly save the world (or at least the city of Townsville) from monsters, would-be conquerers and a few other gross things.</description>
+    <rating>7.3</rating>
+  </cartoon>
+  <cartoon>
+    <name>Ed, Edd n Eddy</name>
+    <span>(1999–2008)</span>
+    <description>The off-the-wall, day-to-day life of three friends who have exactly the same name.</description>
+    <rating>7.5</rating>
+  </cartoon>
+  <cartoon>
+    <name>X-Men: Evolution</name>
+    <span>(2000–2003)</span>
+    <description>This rendition of X-Men features Cyclops, Jean Grey, Rogue, Nightcrawler, Shadowcat and Spike as teenagers as they fight for a world that fears and hates them.</description>
+    <rating>7.8</rating>
+  </cartoon>
+  <cartoon>
+    <name>DuckTales</name>
+    <span>(2017–2021)</span>
+    <description>The comedy-adventure series chronicles the high-flying adventures of trillionaire Scrooge McDuck; his temperamental nephew Donald Duck; grandnephews Huey, Dewey, and Louie; Launchpad McQuack; and Mrs. Beakley and her granddaughter Webby.</description>
+    <rating>8.3</rating>
+  </cartoon>
+  <cartoon>
+    <name>Young Justice</name>
+    <span>(2010–2023)</span>
+    <description>Teenage superheroes strive to prove themselves as members of the Justice League.</description>
+    <rating>8.6</rating>
+  </cartoon>
+  <cartoon>
+    <name>Xiaolin Showdown</name>
+    <span>(2003–2006)</span>
+    <description>A young Xiaolin monk named Omi with a giant yellow head leads a trio of other students to collect powerful items known as Shen Gong Wu while battling the evil Jack Spicer who is also after the artifacts</description>
+    <rating>7.4</rating>
+  </cartoon>
+  <cartoon>
+    <name>The Bugs Bunny/Looney Tunes Comedy Hour</name>
+    <span>(1985–1986)</span>
+    <description>A Saturday morning series, collecting of some of the most popular classic cartoons from the Looney Tunes catalogue.</description>
+    <rating>8.3</rating>
+  </cartoon>
+  <cartoon>
+    <name>Tiny Toon Adventures</name>
+    <span>(1990–1995)</span>
+    <description>The wacky adventures of the new young hip generation of Warner Brothers Looney Tunes characters, most of them descendants of the original classic toon cast.</description>
+    <rating>7.5</rating>
+  </cartoon>
+  <cartoon>
+    <name>Fillmore!</name>
+    <span>(2002–2004)</span>
+    <description>Former delinquent now fights for the good guys at X Middle School.</description>
+    <rating>7.6</rating>
+  </cartoon>
+  <cartoon>
+    <name>American Dragon: Jake Long</name>
+    <span>(2005–2007)</span>
+    <description>A teenage slacker is given the ability to turn into the American Dragon and defends all mythical creatures that secretly reside in the human world.</description>
+    <rating>6.6</rating>
+  </cartoon>
+  <cartoon>
+    <name>Motorcity</name>
+    <span>(2012–2013)</span>
+    <description>A fictitious futuristic Detroit, which is an elevated metropolis built over the old Detroit, classified as Detroit Deluxe. It is owned by evil billionaire Abraham Kane.</description>
+    <rating>7.2</rating>
+  </cartoon>
+  <cartoon>
+    <name>Over the Garden Wall</name>
+    <span>(2014)</span>
+    <description>Two brothers find themselves lost in a mysterious land and try to find their way home.</description>
+    <rating>8.8</rating>
+  </cartoon>
+  <cartoon>
+    <name>Extreme Ghostbusters</name>
+    <span>(1997)</span>
+    <description>Several years after the events of the original show and the movies, Dr. Egon Spengler agrees to help a group of his young students re-form the Ghostbusters under his mentorship.</description>
+    <rating>6.9</rating>
+  </cartoon>
+  <cartoon>
+    <name>My Life as a Teenage Robot</name>
+    <span>(2002–2023)</span>
+    <description>The escapades of a super-powered robot who happens to resemble a teenage girl that tries to balance high school and teen problems while trying to save the world from danger.</description>
+    <rating>7</rating>
+  </cartoon>
+  <cartoon>
+    <name>The Legend of Calamity Jane</name>
+    <span>(1997–1998)</span>
+    <description>The adventures of the legendary female western hero.</description>
+    <rating>7.2</rating>
+  </cartoon>
+  <cartoon>
+    <name>My Adventures with Superman</name>
+    <span>(2023– )</span>
+    <description>Clark Kent builds his secret Superman identity and embraces his role as the hero of Metropolis, while sharing adventures and falling in love with Lois, a star investigative journalist, who also takes Jimmy Olsen under her wing.</description>
+    <rating>7.7</rating>
+  </cartoon>
+  <cartoon>
+    <name>Unicorn: Warriors Eternal</name>
+    <span>(2023– )</span>
+    <description>A team of ancestral heroes is charged with protecting the world from an ominous force and their awakening comes all too soon.</description>
+    <rating>7.3</rating>
+  </cartoon>
+  <cartoon>
+    <name>Clone High</name>
+    <span>(2002–2003)</span>
+    <description>The greatest minds of the world have been cloned, and are now attending high school together.</description>
+    <rating>8.1</rating>
+  </cartoon>
+  <cartoon>
+    <name>Mission Hill</name>
+    <span>(1999–2002)</span>
+    <description>The misadventures of a group of disparate roomates who live in a hip neighborhood in a major city.</description>
+    <rating>7.8</rating>
+  </cartoon>
+  <cartoon>
+    <name>Clerks</name>
+    <span>(2000–2001)</span>
+    <description>The continuing adventures of clerks Dante and Randal, who try to make the best of their menial labor, with no help from Jay and Silent Bob.</description>
+    <rating>7.4</rating>
+  </cartoon>
+  <cartoon>
+    <name>Undergrads</name>
+    <span>(2001)</span>
+    <description>The misadventures of a group of childhood friends who keep in touch while attending separate colleges.</description>
+    <rating>7.8</rating>
+  </cartoon>
+  <cartoon>
+    <name>Downtown</name>
+    <span>(1999–2000)</span>
+    <description>The misadventures of a group of urban teens as they go about their lives.</description>
+    <rating>8.3</rating>
+  </cartoon>
+  <cartoon>
+    <name>The Last Kids on Earth</name>
+    <span>(2019–2021)</span>
+    <description>Young teenager Jack Sullivan and a group of friends live in a decked-out tree house, playing video games, eating candy, and fighting zombies in the aftermath of a monster apocalypse.</description>
+    <rating>7.2</rating>
+  </cartoon>
+  <cartoon>
+    <name>Hit-Monkey</name>
+    <span>(2021)</span>
+    <description>It tells the tale of a wronged Japanese snow monkey, mentored by the ghost of an American assassin, as he cuts a wide swath through the Tokyo underworld.</description>
+    <rating>7.8</rating>
+  </cartoon>
+  <cartoon>
+    <name>Legend Quest</name>
+    <span>(2017)</span>
+    <description>In 19th Century America, 12 year old Leo and his ghost companions defend their world against supernatural threats.</description>
+    <rating>7.3</rating>
+  </cartoon>
+  <cartoon>
+    <name>Godzilla: The Series</name>
+    <span>(1998–2001)</span>
+    <description>In this direct sequel to the 1998 Godzilla movie, Dr. Nico Tatopoulos leads a team, known as H.E.A.T, to battle giant monsters with the help of Godzilla&apos;s only living offspring.</description>
+    <rating>6.8</rating>
+  </cartoon>
+  <cartoon>
+    <name>The Hollow</name>
+    <span>(2018–2020)</span>
+    <description>Three teen strangers awaken in a dangerous world and try to make sense of what connection they have to each other as they attempt to make it out alive.</description>
+    <rating>7.2</rating>
+  </cartoon>
+  <cartoon>
+    <name>Freakazoid!</name>
+    <span>(1995–1997)</span>
+    <description>Washington, D.C. has a new defender: Freakazoid. The comedy and insanity never stop when he&apos;s around, and he&apos;s only one of the weird heroes of the series. It&apos;s better than a nice tub of good things.</description>
+    <rating>7.5</rating>
+  </cartoon>
+  <cartoon>
+    <name>Histeria!</name>
+    <span>(1998–2000)</span>
+    <description>Edutainment animated series that parodies and satirizes history, pop culture and edutainment concept itself.</description>
+    <rating>7.7</rating>
+  </cartoon>
+  <cartoon>
+    <name>Duck Dodgers</name>
+    <span>(2003–2005)</span>
+    <description>Animated science fiction series based on the alter ego of Looney Tunes star Daffy Duck, the semi-heroic, yet incompetent, space captain Duck Dodgers.</description>
+    <rating>7.7</rating>
+  </cartoon>
+  <cartoon>
+    <name>Viking Skool</name>
+    <span>(2022)</span>
+    <description>A group of young students in training to become Viking warriors embark on a series of humorous and exciting adventures in a mystical world.</description>
+    <rating>6.4</rating>
+  </cartoon>
+  <cartoon>
+    <name>The Looney Tunes Show</name>
+    <span>(2011–2015)</span>
+    <description>An updated iteration of the classic Looney Tunes characters focusing on their satirical misadventures living in suburbia.</description>
+    <rating>7.7</rating>
+  </cartoon>
+  <cartoon>
+    <name>The Fairly OddParents</name>
+    <span>(2001–2017)</span>
+    <description>After being tortured and humiliated by his babysitter, a ten year old boy is put under the care of two fairy godparents, who can grant him almost any wish, which leads to dire consequences.</description>
+    <rating>7.2</rating>
+  </cartoon>
+  <cartoon>
+    <name>The Adventures of Jimmy Neutron, Boy Genius</name>
+    <span>(2002–2006)</span>
+    <description>A young boy, who happens to be a genius, lives in a small town with his family and friends and often gets into crazy adventures with them involving the things he invents.</description>
+    <rating>6.7</rating>
+  </cartoon>
+  <cartoon>
+    <name>Daria</name>
+    <span>(1997–2002)</span>
+    <description>A smart and cynical girl goes through teenage life as a proud outsider in a world of mainly idiotic adolescents and condescending adults.</description>
+    <rating>8.1</rating>
+  </cartoon>
+</cartoons>
