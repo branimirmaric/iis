@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/Korisnik/Desktop/IIS-BranimirMaric/Zadatak04,05/Zadatak04/../../Zadatak03/Temp/cartoons.xml" uri="xml-resources/jaxb/Cartoon/cartoons.xml"/>
+    <system systemId="file:/C:/Users/Korisnik/Desktop/IIS-BranimirMaric/Zadatak04,05/Zadatak04/../../data/data/cartoon.xsd" uri="xml-resources/jaxb/Cartoon/cartoon.xsd"/>
+</catalog>

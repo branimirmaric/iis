@@ -1,0 +1,24 @@
+Grad: Zagreb-Grič
+Temperatura: 1.8
+Vlaga: 96
+Tlak: 1019.7
+Tendencija tlaka: -0.3
+Smjer vjetra: C
+Brzina vjetra: 0
+Vrijeme: potpuno oblačno
+Grad: Zagreb-Maksimir
+Temperatura: 2.2
+Vlaga: 90
+Tlak: 1019.8
+Tendencija tlaka: -0.2
+Smjer vjetra: N
+Brzina vjetra: 0.3
+Vrijeme: potpuno oblačno
+Grad: Zagreb-aerodrom
+Temperatura: 1.2
+Vlaga: 92
+Tlak: 1019.9
+Tendencija tlaka: -0.2
+Smjer vjetra: NW
+Brzina vjetra: 2
+Vrijeme: pretežno oblačno

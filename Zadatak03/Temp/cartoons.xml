@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cartoons>
+  <cartoon>
+    <name>Tom and Jerry</name>
+    <span>1950-2024</span>
+    <description>A classic cartoon about a cat and a mouse.</description>
+    <rating>8.5</rating>
+  </cartoon>
+  <cartoon>
+    <name>SpongeBob SquarePants</name>
+    <span>1999-Present</span>
+    <description>The adventures of a sea sponge and his friends.</description>
+    <rating>7.5</rating>
+  </cartoon>
+  <cartoon>
+    <name>Looney Tunes</name>
+    <span>1930-1969</span>
+    <description>Featuring famous characters like Bugs Bunny and Daffy Duck.</description>
+    <rating>8.0</rating>
+  </cartoon>
+</cartoons>
