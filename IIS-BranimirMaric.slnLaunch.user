@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Start All",
+    "Projects": [
+      {
+        "Path": "Zadatak01\\Zadatak01.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Zadatak02\\Zadatak02.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Zadatak03\\Zadatak03.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Zadatak06\\Zadatak06.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Zadatak07\\Zadatak07.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

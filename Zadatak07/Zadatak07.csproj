@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Kveer.XmlRPC" Version="1.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Zadatak01\Zadatak01.csproj" />
+    <ProjectReference Include="..\Zadatak02\Zadatak02.csproj" />
+    <ProjectReference Include="..\Zadatak03\Zadatak03.csproj" />
+    <ProjectReference Include="..\Zadatak06\Zadatak06.csproj" />
+  </ItemGroup>
+
+</Project>
