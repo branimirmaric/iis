@@ -74,18 +74,9 @@ Prema odabranoj temi za projektni zadatak implementirati „backend“ sustav ko
   - Poruka:
             - Unesite ime grada:
   - unesite ime "Bjelovar"
-  - Poruka: Grad: Bjelovar | Temperatura: 8.4 | Vlaga: 99 | Tlak: 1017.9 | Tendencija tlaka: 0.0 | Smjer vjetra: NE | Brzina vjetra: 0.5 | Vrijeme: lahor
+  - Poruka: "Grad: Bjelovar | Temperatura: 8.4 | Vlaga: 99 | Tlak: 1017.9 | Tendencija tlaka: 0.0 | Smjer vjetra: NE | Brzina vjetra: 0.5 | Vrijeme: lahor"
   > NOTE: podaci mogu odstupati
-  - vratimo se u MainWindow prozor > Click Here > Poruka:
-                                                          - Grad: Bjelovar
-                                                          - Temperatura: 8.4
-                                                          - Vlaga: 99
-                                                          - Tlak: 1017.9
-                                                          - Tendencija tlaka: 0.0
-                                                          - Smjer vjetra: NE
-                                                          - Brzina vjetra: 0.5
-                                                          - Vrijeme: lahor
-
+  - vratimo se u MainWindow prozor > Click Here > Poruka: "Grad: Bjelovar | Temperatura: 8.4 | Vlaga: 99 | Tlak: 1017.9 | Tendencija tlaka: 0.0 | Smjer vjetra: NE | Brzina vjetra: 0.5 | Vrijeme: lahor"
   
 6. Zadatak 6: Implementirati vlastiti REST API koji će implementirati sigurnosne aspekte korištenjem JWT tokena.
   - odlazimo u Swagger Zadatak06 > User > POST /api/user/login > Try it out > username = "admin" > password = "12345678" > Execute
