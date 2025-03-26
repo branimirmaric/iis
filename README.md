@@ -56,7 +56,7 @@ Prema odabranoj temi za projektni zadatak implementirati „backend“ sustav ko
 
 4. Zadatak 4: Generiranu datoteku iz prethodnog koraka korištenjem JAXB-a provjeriti je li u skladu sa zadanom XSD datotekom.
 - nakon pokretanja svih zadataka opcijom Multiple startup projects imena "Start All" > Zadatak03 kreirao je direktorij "Temp" > "cartoons.xml"
-- otvorite IDE za Javu > osobno koristim ApacheNetbeans
+- otvorite IDE za Javu > osobno koristim Apache Netbeans
 - Projects > Open Project... > Desktop\IIS-BranimirMaric\Zadatak04,05 > select Zadatak04 i Zadatak05 > Open Project
 - desni klik na Zadatak04 > Clean and Build
 - Zadatak04 > Source Packages > hr.algebra > Zadatak04.java > desni klik Run File
