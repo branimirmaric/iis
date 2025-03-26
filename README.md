@@ -42,15 +42,16 @@ Prema odabranoj temi za projektni zadatak implementirati „backend“ sustav ko
     - unosimo: "Tom and Jerry" ili "SpongeBob SquarePants" ili "Looney Tunes"
     - "Tom and Jerry"
     - Poruka:
-              - <?xml version="1.0" encoding="utf-16"?>
-              -  <cartoons>
-              -    <cartoon>
-              -      <name>Tom and Jerry</name>
-              -      <span>1950-2024</span>
-              -      <description>A classic cartoon about a cat and a mouse.</description>
-              -      <rating>8.5</rating>
-              -    </cartoon>
-              -  </cartoons>
+             ```xml
+            <?xml version="1.0" encoding="utf-16"?>
+            <cartoons>
+                <cartoon>
+                    <name>Tom and Jerry</name>
+                    <span>1950-2024</span>
+                    <description>A classic cartoon about a cat and a mouse.</description>
+                    <rating>8.5</rating>
+                </cartoon>
+            </cartoons>
 
 
 4. Zadatak 4: Generiranu datoteku iz prethodnog koraka korištenjem JAXB-a provjeriti je li u skladu sa zadanom XSD datotekom.
