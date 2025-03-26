@@ -68,24 +68,13 @@ Prema odabranoj temi za projektni zadatak implementirati „backend“ sustav ko
   - Desktop\IIS-BranimirMaric\data > unzip "apache-xmlrpc-3.1.3-bin.zip" + unzip "jaxb-runtime-2.4.0-b180725.0644.jar"
   - Zadatak05 > Clean and Build
   - Zadatak05 > Source Packages > hr.algebra > DhmzServer.java > desni klik Run File
-  - Poruka:
-            - Startam server ...
-            - Pokrenut server.
-            - Cekanje zahtjeva ...
+  - Poruka: Startam server ... | Pokrenut server. | Cekanje zahtjeva ...
   - odlazak na link "https://vrijeme.hr/hrvatska_n.xml" 
   - Zadatak05 > Source Packages > hr.algebra > DhmzClient.java > desni klik Run File
   - Poruka:
             - Unesite ime grada:
   - unesite ime "Bjelovar"
-  - Poruka:
-            - Grad: Bjelovar
-            - Temperatura: 8.4
-            - Vlaga: 99
-            - Tlak: 1017.9
-            - Tendencija tlaka: 0.0
-            - Smjer vjetra: NE
-            - Brzina vjetra: 0.5
-            - Vrijeme: lahor
+  - Poruka: Grad: Bjelovar | Temperatura: 8.4 | Vlaga: 99 | Tlak: 1017.9 | Tendencija tlaka: 0.0 | Smjer vjetra: NE | Brzina vjetra: 0.5 | Vrijeme: lahor
   > NOTE: podaci mogu odstupati
   - vratimo se u MainWindow prozor > Click Here > Poruka:
                                                           - Grad: Bjelovar
